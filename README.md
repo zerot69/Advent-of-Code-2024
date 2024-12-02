@@ -36,7 +36,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 
 ## Usage
 
-To run the solution for a given day, simply run the corresponding JavaScripts file. For example, to run the solution for Day 1, Part 1, run the following command:
+To run the solution for a given day, simply run the corresponding JavaScripts file. For example, to run the solution for Day 1, run the following command:
 
 ```
 node day-01
