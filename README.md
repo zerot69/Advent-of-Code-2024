@@ -9,8 +9,8 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1   | :star: | :star: |
-| 2   |        |        |
-| 3   |        |        |
+| 2   | :star: | :star: |
+| 3   | :star: | :star: |
 | 4   |        |        |
 | 5   |        |        |
 | 6   |        |        |
