@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my solutions for the [Advent of Code 2024](https://adventofcode.com/2024) challenges. This repository is a collection of my solutions in JavaScripts. My solutions are not necessarily the most efficient or elegant, but they are the product of my own work and reflect my own learning process. I hope that you find them useful!
+This repository contains my solutions for the [Advent of Code 2024](https://adventofcode.com/2024) challenges. This repository is a collection of my solutions in JavaScript. My solutions are not necessarily the most efficient or elegant, but they are the product of my own work and reflect my own learning process. I hope that you find them useful!
 
 ## Progress
 
@@ -11,7 +11,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 | 1   | :star: | :star: |
 | 2   | :star: | :star: |
 | 3   | :star: | :star: |
-| 4   |        |        |
+| 4   | :star: | :star: |
 | 5   |        |        |
 | 6   |        |        |
 | 7   |        |        |
@@ -36,7 +36,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 
 ## Usage
 
-To run the solution for a given day, simply run the corresponding JavaScripts file. For example, to run the solution for Day 1, run the following command:
+To run the solution for a given day, simply run the corresponding JavaScript file. For example, to run the solution for Day 1, run the following command:
 
 ```
 node day-01
