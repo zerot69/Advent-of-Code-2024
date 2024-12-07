@@ -1,7 +1,6 @@
 const fs = require("fs");
 
 const input = fs.readFileSync("day-04.txt", "utf-8");
-// const input = "MMMSXXMASM\nMSAMXMSMSA\nAMXSXMAAMM\nMSAMASMSMX\nXMASAMXAMM\nXXAMMXXAMA\nSMSMSASXSS\nSAXAMASAAA\nMAMMMXMMMM\nMXMXAXMASX";
 
 const lines = input.split("\n");
 const numRows = lines.length;
