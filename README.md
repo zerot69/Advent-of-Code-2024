@@ -16,7 +16,7 @@ This repository contains my solutions for the [Advent of Code 2024](https://adve
 | 6   | :star: | :star: |
 | 7   | :star: | :star: |
 | 8   | :star: | :star: |
-| 9   |        |        |
+| 9   | :star: | :star: |
 | 10  |        |        |
 | 11  |        |        |
 | 12  |        |        |
